@@ -30,6 +30,10 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 * [Javascript](https://github.com/Placekey/placekey-js) A JavaScript library for working with Placekeys.
 
+### QGIS
+
+* [QGIS](https://github.com/riccardoklinger/placekey) Placekey QGIS Plugin
+
 ### R Code
 * [R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API.
 
